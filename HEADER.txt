@@ -1,0 +1,6 @@
+' =========================================================
+' PSR Automation - QA Evidence Standardization
+' Author: Rodrigo Bonifacio Chagas dos Santos
+' Created: 2025-09-13
+' License: Apache License 2.0 (see LICENSE file)
+' =========================================================
